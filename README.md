@@ -17,6 +17,11 @@ Videos made for the website and social channels of a Hungarian security company.
 
 [![KSF homepage flythrough](previews/ksf-homepage-flythrough.gif)](https://zoltankothencz-design.github.io/motion-design-portfolio/#ksf-homepage)
 
+### Drone landing page flythrough
+**AI-generated.** A scroll-through of the drone-based security landing page as an animated tour. 42 s, 1440x1152.
+
+[![KSF drone landing flythrough](previews/ksf-drone-landing-flythrough.gif)](https://zoltankothencz-design.github.io/motion-design-portfolio/#ksf-drone)
+
 ### Company intro
 **AI-generated.** Main intro film for the site, with a vertical cut for Reels, TikTok and Shorts. 35 s (16:9) and 20 s (9:16).
 
