@@ -8,6 +8,14 @@ Opening animation for an iGaming analytics report (Power BI): report title, page
 
 [![iGaming Power BI opener](previews/igaming-powerbi-opener.gif)](https://zoltankothencz-design.github.io/motion-design-portfolio/#igaming)
 
+## iGaming report as an animated web page
+
+The same Power BI report rebuilt as a single HTML page with coded motion graphics (HTML canvas, no video footage). The hero is an animated waterfall: turnover pours in, player wins and bonuses are ground out, and a lens enlarges what is left down to NGR. The other panels animate too: liquid-fill monthly bars, evaporating bonus by continent, a pulsing dot-matrix map, chip stacks for the platform mix, slot-reel numbers for game categories and a dot grid for player concentration. Every final value was queried from the Power BI semantic model (synthetic demo data). The recording is 29 s, 1600x900; the preview below runs the waterfall at 2x speed.
+
+[![iGaming HTML report](previews/igaming-html-report.gif)](https://zoltankothencz-design.github.io/motion-design-portfolio/#igaming-html)
+
+**[Open the live page](https://zoltankothencz-design.github.io/motion-design-portfolio/report/igaming-report-2026.html)** (the year buttons and Replay replay the animation).
+
 ## KSF Kft. website (ksfkft.hu)
 
 Videos made for the website and social channels of a Hungarian security company. Each video is labeled: **AI-generated** means the footage was created with generative AI tools, **Real footage** means it was recorded, not generated.
@@ -44,8 +52,8 @@ Videos made for the website and social channels of a Hungarian security company.
 ## Notes
 
 - Videos are H.264 MP4 without an audio track.
-- The iGaming opener uses an AI-generated background image.
+- The iGaming opener uses an AI-generated background image. The iGaming HTML report is coded animation with no generated imagery.
 - The KSF videos are AI-generated except the training intro, which uses real footage.
-- The previews are 5 to 6 second excerpts. The original MP4 files are in the `videos` folder.
+- The previews are 5 to 6 second excerpts. The original MP4 files are in the `videos` folder; the HTML report itself is in the `report` folder.
 
 Made by Zoltan Kothencz.

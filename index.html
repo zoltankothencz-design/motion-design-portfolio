@@ -26,6 +26,7 @@
   .tag { display: inline-block; font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px; margin-right: 6px; }
   .tag.ai { background: color-mix(in srgb, var(--ai) 22%, transparent); color: #b9b0ff; }
   .tag.real { background: color-mix(in srgb, var(--real) 22%, transparent); color: #7fd9a6; }
+  .tag.code { background: color-mix(in srgb, var(--gold) 20%, transparent); color: #f0cd7a; }
   .tag.spec { background: transparent; color: var(--muted); padding-left: 0; }
   footer { margin-top: 56px; color: var(--muted); font-size: 14px; }
   a { color: var(--gold); }
@@ -44,6 +45,19 @@
       <div class="meta">
         <h3>Report opener</h3>
         <span class="tag ai">AI background</span><span class="tag spec">30 s, 1920x1080</span>
+      </div>
+    </article>
+  </div>
+
+  <h2 id="igaming-html">iGaming report as an animated web page</h2>
+  <p class="lead">The same report rebuilt as one HTML page with coded motion graphics. Revenue flows through an animated waterfall to NGR while player wins and bonuses are ground out; every panel below it animates as well. Final values were queried from the Power BI semantic model (synthetic demo data).</p>
+  <div class="grid one">
+    <article>
+      <video controls preload="metadata" playsinline muted loop poster="posters/igaming-html-report.jpg" src="videos/igaming/igaming-html-report.mp4"></video>
+      <div class="meta">
+        <h3>Animated HTML report</h3>
+        <span class="tag code">Coded animation</span><span class="tag spec">29 s screen recording, 1600x900</span>
+        <p><a href="report/igaming-report-2026.html">Open the live page</a>: switch years or press Replay to run the animation again.</p>
       </div>
     </article>
   </div>
